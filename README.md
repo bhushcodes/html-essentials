@@ -473,4 +473,4 @@ Use semantic HTML elements and descriptive tags to improve search engine visibil
 
 This comprehensive guide covers everything you need to know about HTML, from the basics to advanced topics. Practice sheets are included to help reinforce your learning and become proficient in HTML development. Happy coding!
 
-Follow: [@bhushcodes 🐦](https://twitter.com/bhushcodes) | [@16oct.01 😉](https://www.instagram.com/16oct.01/)
+Follow: [@bhushcodes 🐦](https://twitter.com/bhushcodes) | [@unfiltered.bhushan 😉](https://www.instagram.com/unfiltered.bhushan/)
